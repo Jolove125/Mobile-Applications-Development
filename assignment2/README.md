@@ -1,6 +1,5 @@
 # assignment2
-
-A new Flutter project.
+A simple pizza ordering application showing the fundamental use of UI.
 
 ## Getting Started
 
